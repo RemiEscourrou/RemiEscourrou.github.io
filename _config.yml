@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 locale                   : "en-US"
 title                    : "Escourroot"
 title_separator          : "-"
-subtitle                 : "Another cyber security blog"
+subtitle                 : # "Another cyber security blog"
 name                     : "Rémi Escourrou"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Rémi Escourrou"
-  avatar           : /assets/images/bio.jpeg
+  avatar           : /assets/images/bio.jpg
   bio              : "Information security enthusiast, I work as penetration tester/ red teamer & I am passionate about windows security and active directory stuff. I will try to share some interesting stuff in this personal blog"
   location         : "Red / Blue / Purple"
   email            :
