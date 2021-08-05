@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Rémi Escourrou"
-  avatar           : "/assets/images/bio.jpeg"
+  avatar           : /assets/images/bio.jpeg
   bio              : "Information security enthusiast, I work as penetration tester/ red teamer & I am passionate about windows security and active directory stuff. I will try to share some interesting stuff in this personal blog"
   location         : "Red / Blue / Purple"
   email            :
